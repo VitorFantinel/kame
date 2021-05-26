@@ -3,7 +3,16 @@
 
 ## Pesquisa
 + Pesquisar por bibliotecas que auxiliem no design responsivo (ex: bulma, bootstrap, material design)
+   1. Framework
+   2. uikit.
+   3. Materialize.
+   4. Pure.
+   5. Semantic UI.
+
 + Pesquisar por bibliotecas que manipulem mapas interativos
+   1. MapHub.
+   2. MyMaps (Google maps).
+
 + Pesquisar sobre JavaScript
 + Estudar a ferramenta GIT (instalar) e a plataforma GITHUB (onde ficará o código-fonte)
 
